@@ -45,8 +45,8 @@ int main()
         getline(cin, descrip);//Permite ejecutar los espacios en la variable
         cout << "Ingrese el precio unitario del articulo\n";
         cin >> precio_uni;
-        iva=precio_uni*0.16;
-        preciof=precio_uni+iva;
+        iva=precio_uni*0.16;//operacion para calcular el iva
+        preciof=precio_uni+iva;//operacion para calcular el precio final con el iva incluido
         cout << "El precio con IVA es de:"<<preciof;
         return main();
         break;
