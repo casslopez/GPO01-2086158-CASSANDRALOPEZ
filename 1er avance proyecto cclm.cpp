@@ -11,7 +11,7 @@ int main()
     float precio_uni,iva,preciof;
     string arti, descrip, cate;
 
-    cout << "\t ***PAPELERIA BENITO*** \n";
+    cout << "\t ***FUN STORE*** \n";
     cout << " 1.-Agregar Articulo \n 2.-Modificar Articulo\n 3.-Eliminar Articulo\n 4.-Lista Articulo\n 5.-Limpiar Pantalla\n 6.-Salir\n";
     cin >> opcion;
 
