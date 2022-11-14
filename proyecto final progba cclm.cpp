@@ -22,7 +22,7 @@ void modi();
 void archi();
 
 int main() {
-    setlocale(LC_ALL,"Spanish");
+    setlocale(LC_ALL,"Spanish"); //complemento de la librería locale.h
     int opc;
     do {
         printf("        FUN STORE        \n");
