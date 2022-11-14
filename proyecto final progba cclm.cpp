@@ -12,8 +12,8 @@ using namespace std;
 //declarar las variables
 
 int * year, regi, * numa, sn, n=1;
-float* impu, * preun, * total;
-string* caracte, * descue, * nombre, * gene, * clasif;
+float * impu, * preun, * total;
+string * caracte, * descue, * nombre, * gene, * clasif;
 
 void alta();
 void listas();
